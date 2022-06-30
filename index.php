@@ -30,7 +30,7 @@
 
   function the_color_form(){
     echo "<div class = 'page-color'>";
-    echo "<form method = 'POST' action = 'a6.php'>";
+    echo "<form method = 'POST' action = 'index.php'>";
     echo "<input type = 'color' name = 'lecolor'>";
     echo "Which color do you prefer for the text of this page? <input type = 'submit'></input>";
     echo "</form>";
